@@ -38,5 +38,5 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team<br/>
 THEN I exit the application, and the HTML is generated</p>
 <h2>Mock-Up</h2>
-<a href="https://www.youtube.com/watch?v=N8KI3T8LLwM"> walkthrough</a>
-<a href=""> REPO</a>
+<a href="https://www.youtube.com/watch?v=N8KI3T8LLwM"> walkthrough</a><br/>
+<a href="https://github.com/tesfumfa/assignment_challenge_10"> REPO</a>
