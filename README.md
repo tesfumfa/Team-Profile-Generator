@@ -39,4 +39,4 @@ WHEN I decide to finish building my team<br/>
 THEN I exit the application, and the HTML is generated</p>
 <h2>Mock-Up</h2>
 <a href="https://www.youtube.com/watch?v=N8KI3T8LLwM"> walkthrough</a><br/>
-<a href="https://github.com/tesfumfa/assignment_challenge_10"> REPO</a>
+<a href="https://github.com/tesfumfa/Team-Profile-Generator"> REPO</a>
